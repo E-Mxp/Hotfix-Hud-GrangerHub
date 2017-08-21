@@ -21,14 +21,14 @@ FRAMEWORK:
 
 TODO:
 * Integrate options into the main menu.
-* Port the other layouts from GPP to 1.1, now only the default layout has been ported.
 * Find a way to make it easier to select which files to load, it still requires 4 files for each colorscheme and layout which will quickly become hard to maintain.
 * Implement / support changes from the 1.3 test build.
 
+v10.1: Layouts ported
+* Port the other layouts from GPP to 1.1
 V10.0: GrangerHub
--------------------------------------------------------------------------------------------------------
 * Alpha release
-
+-------------------------------------------------------------------------------------------------------
 Special thanks to:
 Superpie, for creating the Tweaked GPP HUD I know and love.
 Warrior, for crafting the Warrior's Hud, a hud thats very colorfull and nice.
